@@ -1,0 +1,15 @@
+N350 Nokia afficheur tactile complet ;20;839
+Belgium;Brussels;30518
+Denmark;Copenhagen;43094
+Finland;Helsinki;304529
+France;Paris;543965
+Germany;Berlin;357022
+Greece;Athens;131625
+Ireland;Dublin;70723
+Italy;Roma;301316
+Luxembourg;Luxembourg;2586
+Netherlands;Amsterdam;41526
+Portugal;Lisbon;91906
+Spain;Madrid;504790
+Sweden;Stockholm;410934
+United Kingdom;London;243820
